@@ -1,0 +1,30 @@
+ll
+ls
+touch
+cat filename
+cat >filename
+cat>> filename
+vim
+conrl l
+clear
+mkdir
+rm -f
+rm -rf
+rmdir
+cp 
+mv
+chmod
+cp -r
+cd
+cd..
+pwd 
+lsblk
+head 
+tail
+hostname
+hostnamectl 
+cat /etc/os -release
+cat /etc/os-release
+cat /etc/redhat-release
+hostnamectl set-hostname name
+exec bash
